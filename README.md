@@ -114,7 +114,10 @@ restaurant-order-analysis/
 │
 ├── sql/
 │   ├── data_join.sql
-│   └── business_analysis.sql
+│   └── checking_data.sql
+│   └── menu_analysis.sql
+│   └── orderdetails_analysis.sql
+│   └── customer_behavior.sql
 │
 ├── dashboard/
 │   ├── Restaurant Dashboard.pbix
@@ -123,8 +126,7 @@ restaurant-order-analysis/
 ├── presentation/
 │   └── Restaurant Analysis Presentation.pptx
 │
-├── README.md
-└── LICENSE
+└── README.md
 ```
 
 ---
