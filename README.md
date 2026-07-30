@@ -109,7 +109,8 @@ restaurant-order-analysis/
 │   └── restaurant_orders.csv
 │
 ├── python/
-│   └── data_cleaning.ipynb
+│   └── menu_cleaning.ipynb
+│   └── orderdetails_cleaning.ipynb
 │
 ├── sql/
 │   ├── data_join.sql
